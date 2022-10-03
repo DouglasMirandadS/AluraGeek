@@ -79,7 +79,7 @@ input{
     flex-grow: 0
 }
 .banner{
-    background-image: url(banner.jpg);
+    background-image: url(file:///C:/Users/User/Desktop/Alurageek/img/banner.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
